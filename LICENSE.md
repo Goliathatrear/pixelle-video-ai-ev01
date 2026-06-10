@@ -1,4 +1,4 @@
-# 
+# Intelligent Pixelle-Video plugins. Avec traitement à faible latence et gestion de la mémoire — optimisé pour des performances et une efficacité maximales.
 
 
 
